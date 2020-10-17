@@ -5,4 +5,4 @@ addition, subtraction, multiplication, division, modulus, absolute, power
 
 floats are not supported at the moment
 
-Licensed under BSD 3-Clause "New" or "Revised" License
+Distributed under BSD 3-Clause "New" or "Revised" License
